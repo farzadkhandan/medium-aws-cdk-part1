@@ -1,0 +1,14 @@
+-i https://pypi.org/simple
+boto3
+aws-cdk.core
+aws-cdk.aws-apigateway
+aws-cdk.aws-apigatewayv2
+aws-cdk.aws-certificatemanager
+aws-cdk.aws-cloudformation
+aws-cdk.aws-events-targets
+aws-cdk.aws-events
+aws-cdk.aws-iam
+aws-cdk.aws-lambda
+aws-cdk.aws_lambda_event_sources
+aws-cdk.aws-s3
+aws-cdk.aws-kinesis
